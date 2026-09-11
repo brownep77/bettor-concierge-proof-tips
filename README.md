@@ -1,2 +1,5 @@
-# bettor-concierge-proof-tips
-Bettor Concierge Proof Tips desk — published selections, tipster profiles, points profit ledger
+# Bettor Concierge Proof Tips
+
+Public ledger of named, published betting selections with tipster profiles and points-profit scoring.
+
+18+ GambleAware.org
